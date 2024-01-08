@@ -4,7 +4,7 @@
 
 ### Estudante de Frontend e Backend
 
-### Com foco atualmente em Fullstack
+### Com foco atualmente em me tornar um profissional em Fullstack
 
 
 <div>
@@ -14,7 +14,8 @@
 
 ### Linguagens favoritas
   
-<img align="center" alt="José-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt="José-html" height="30" width="40" src= "https://devicon-website.vercel.app/api/python/original.svg" />
+<img align="center" alt="José-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="center"
+ alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt="José-html" height="30" width="40" src= "https://devicon-website.vercel.app/api/python/original.svg" />
 
   
 ### IDE favorito
