@@ -4,7 +4,7 @@
 
 ### Estudante de Frontend e Backend
 
-### Com foco atualmente em me tornar um profissional em Fullstack
+### Com foco atualmente em me tornar um profissional Fullstack
 
 
 <div>
