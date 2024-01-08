@@ -17,3 +17,6 @@
 <img align="center" alt="José-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt="José-html" height="30" width="40" src= "https://devicon-website.vercel.app/api/python/original.svg" />
 
   
+### IDE favorito
+
+<img align="center" alt="josé-hmtl" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg" />
