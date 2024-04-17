@@ -2,9 +2,9 @@
 # Hi 👋
 ### Eu sou o José Eduardo
 
-### Estudante de Frontend e Backend
+### Estudante de Backend
 
-### Com foco atualmente em me tornar um profissional Fullstack
+### Com foco atualmente em me tornar um profissional focado em Backend
 
 
 <div>
