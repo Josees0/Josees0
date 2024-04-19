@@ -11,7 +11,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josees0&show_icons=true&theme=dark"/>  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&theme=dark"/>
  
  
-<div/>
+</div>
 
 ### Linguagens favoritas
   
