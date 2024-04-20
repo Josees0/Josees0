@@ -12,10 +12,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 
-
-<img height ="180em" src="https://github-readme-stats.vercel.app/api?username=Josees0&show_icons=true&theme=github_dark"/> 
-
-
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&theme=github_dark"/>
 
 </div>
