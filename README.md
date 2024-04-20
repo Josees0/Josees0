@@ -11,7 +11,7 @@
 <a href= "https://github.com/Josees0">
 
 <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=Josees0&show_icons=true
-&theme=darkalchemy-2-black"/> 
+&theme=darkalchemy_2_black"/> 
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&theme=github_dark"/>
 
 </div>
