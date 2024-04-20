@@ -10,7 +10,7 @@
 <div>
 <a href= "https://github.com/Josees0">
 
-[![José Eduardo current streak](https://streak-stats.demolab.com/?user=josees0&count_private=true&theme=github_dark&title_color=00b3ff)](#)
+[![José Eduardo current streak](https://streak-stats.demolab.com/?user=josees0&count_private=true&theme=github_dark&title_color=000080)](#)
 
 
 <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=Josees0&show_icons=true&theme=github_dark"/> 
