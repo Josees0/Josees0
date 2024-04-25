@@ -12,7 +12,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josees0&layout=compact)
+<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&langs_count=16&theme=github_dark"/>
 
 
 
