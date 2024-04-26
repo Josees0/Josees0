@@ -14,6 +14,7 @@
 
 <img height="130em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&langs_count=16&theme=github_dark"/>
 
+![](https://komarev.com/ghpvc/?username=Josees0)
 
 
 </div>
