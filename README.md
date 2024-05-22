@@ -31,6 +31,6 @@
 
 ### Contatos
 
-<a href="mailto:jeducerqueira09@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  <a href="https://wa.me/43991611718" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>  <img src="https://dcbadge.limes.pink/api/shield/859767256561090600" />
+ <a href="mailto:jeducerqueira09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.me/43991611718" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><img src="https://dcbadge.limes.pink/api/shield/859767256561090600" />
 
 
