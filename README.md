@@ -1,5 +1,5 @@
 
-# Hi 👋
+# Olá 👋
 ### Eu sou o José Eduardo
 
 ### Estudante de Backend
