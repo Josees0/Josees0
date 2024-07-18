@@ -1,34 +1,18 @@
-
-# Olá 👋
-### Eu sou o José Eduardo
-
-### Estudante de Backend
-
-### Com foco atualmente em melhorar meus conhecimentos sobre backend
-
-
-<div>
-<a href= "https://github.com/Josees0">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
-
-<img height="130em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&langs_count=16&theme=github_dark"/>
-
-
+<h1 style align="center">Seja bem vindo👋</h1>
+<p style align="center"> Meu nome é José Eduardo d. S. Cerqueira e atualmente tenho 16 anos e estou focado em estudar programação.</p>
+<p style align="center"> Para alcançar meu objetivo de me tornar um analista de dados, estou estudando Python e R e em breve começarei a estudar estrutura de IA.</p>
+<br>
 
 </div>
 
-### Linguagens favoritas
+## Dados do Github
+<div>
+<img src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /> <img height="150px" margin-left="30px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&langs_count=16&theme=github_dark"/>
+
+## Linguagens favoritas
   
-<img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/><img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img align="center" alt="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt
-="José-html"
- height="30" width="40" src= "https://devicon-website.vercel.app/api/python/original.svg" /><img align="center" alt ="José-html" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
-  
-### Editores de código fonte favoritos
-
-<img align="center" alt="josé-hmtl" height="30" width="40" src="https://devicon-website.vercel.app/api/vscode/original.svg" /> <img align="center" alt="josé-html" height="35" src="https://static-00.iconduck.com/assets.00/sublime-text-icon-2048x2048-cliibsen.png" />
-
+<img align="center" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/><img align="center" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img align="center" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" height="30" width="40" src= "https://devicon-website.vercel.app/api/python/original.svg" /> <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+<br><br>
 
 ### Contatos
 
