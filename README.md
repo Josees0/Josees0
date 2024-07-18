@@ -1,6 +1,7 @@
 <h1 style align="center">Seja bem vindo👋</h1>
 <p style align="center"> Meu nome é José Eduardo d. S. Cerqueira e atualmente tenho 16 anos e estou focado em estudar programação.</p>
 <p style align="center"> Para alcançar meu objetivo de me tornar um analista de dados, estou estudando Python e R e em breve começarei a estudar estrutura de IA.</p>
+
 <br>
 
 </div>
@@ -17,5 +18,3 @@
 ### Contatos
 
 <a href="mailto:jeducerqueira09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://wa.me/43991611718" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <img src="https://dcbadge.limes.pink/api/shield/859767256561090600" />
-
-
