@@ -1,6 +1,6 @@
 <h1 style align="center">Seja bem vindo👋</h1>
 <p style align="center"> Meu nome é José Eduardo d. S. Cerqueira e atualmente tenho 16 anos e estou focado em estudar programação.</p>
-<p style align="center"> Para alcançar meu objetivo de me tornar um analista de dados, estou estudando Python e R e em breve começarei a estudar estrutura de IA.</p>
+<p style align="center"> Para alcançar meu objetivo de me tornar um analista de dados, estou estudando Python e R e breve começarei a estudar estrutura de IA.</p>
 
 <br>
 
