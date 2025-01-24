@@ -1,6 +1,6 @@
 <h1 style align="center"> Seja bem vindo👋</h1>
-<p style align="center"> Sou o José Eduardo, tenho atualmente 16 anos.</p>
-<p style align="center"> Meus estudos atuais voltados para data science, mas focando principalmente em meus projetos pessoais e tecnologias de meu interesse.</p>
+<p style align="center"> Sou o José Eduardo, atualmente com 16 anos, estudos atuais estão voltados para data science.</p>
+<p style align="center"> Mas com foco especial em desenvolver meus próprios projetos e nas tecnologias de meu interesse.</p>
 <br>
 </div>
 
