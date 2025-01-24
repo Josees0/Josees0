@@ -6,7 +6,7 @@
 
 ## Dados do Github
 <div>
-<img height="180px"src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /> <img height="120px" margin-left="30px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Josees0&layout=compact&langs_count=16&theme=github_dark"/> 
+<img height="180px"src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
 
 ## Tecnologias
   
