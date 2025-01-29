@@ -1,5 +1,5 @@
 <h1 style align="center"> Hello viewer 👋</h1>
-<p style align="center"> I am José E d S. Cerqueira, a 16-year-old student currently focused on data science.</p>
+<p style align="center"> I am José E d S. Cerqueira, a 17-year-old student currently focused on data science.</p>
 <p style align="center"> And now especially interested in developing my own projects and expanding my knowledge in the technologies listed below.</p>
 <br>
 </div>
