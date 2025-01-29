@@ -6,7 +6,7 @@
 
 ## GitHub status
 <div>
-<img height="180px"src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
+<img height="180px"src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=en&mode=weekly" alt="GitHub Streak" />
 
 ## Tech Stack
 ### Data science :
