@@ -4,13 +4,14 @@
 <br>
 </div>
 
+## Tech Stack
+<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Python-%23144e7f?style=for-the-badge&logo=python&logoColor=yellow"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/R-%23424445?style=for-the-badge&logo=r&logoColor=%23276DC3"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Rasperry-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=green">
+
 ## GitHub status
 <div>
 <img height="180px"src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=en&mode=weekly" alt="GitHub Streak" />
 
-## Tech Stack
-<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Python-%23144e7f?style=for-the-badge&logo=python&logoColor=yellow"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/R-%23424445?style=for-the-badge&logo=r&logoColor=%23276DC3"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Rasperry-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=green">
 
 ## Contacts
 
