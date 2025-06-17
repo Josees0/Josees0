@@ -1,6 +1,5 @@
 <h1 style align="center"> Hello viewer 👋</h1>
 <p style align="center"> Interested in developing my own projects and expanding my knowledge in the technologies listed below.</p>
-<br>
 </div>
 
 ## Stack
