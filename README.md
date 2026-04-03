@@ -1,16 +1,13 @@
-<h1 style align="center"> Hello viewer 👋</h1>
-<p style align="center"> Interested in developing my own projects and expanding my knowledge in the technologies listed below.</p>
-</div>
+<h1 style align="center"> Welcome to my profile</h1>
+<p style align="center"> Current developing own projects and expanding my knowledge based on technologies listed below</p>
 
 ## Stack
-<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Python-%23144e7f?style=for-the-badge&logo=python&logoColor=yellow"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Rasperry-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=green">
+<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Python-%23144e7f?style=for-the-badge&logo=python&logoColor=yellow"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 ## GitHub status
 <div>
 <img height="180px"src="https://streak-stats.demolab.com?user=Josees0&theme=github-dark-blue&border_radius=5&locale=en&mode=weekly" alt="GitHub Streak" />
-
-
+  
 ## Contacts
-
 <a href="mailto:jeducerqueira09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://wa.me/43991611718" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <img src="https://dcbadge.limes.pink/api/shield/859767256561090600" />
