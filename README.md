@@ -1,5 +1,5 @@
 <h1 style align="center"> Welcome to my profile</h1>
-<p style align="center"> Current developing own projects and expanding my knowledge based on technologies listed below</p>
+<p style align="center"> Current developing some projects and expanding my knowledge based on technologies listed below</p>
 
 ## Stack
 <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Python-%23144e7f?style=for-the-badge&logo=python&logoColor=yellow"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
