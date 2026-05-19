@@ -3,7 +3,7 @@
 
 ## Stack
 <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Python-%23144e7f?style=for-the-badge&logo=python&logoColor=yellow"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img height="28px" alt="Static Badge" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img height="28px" alt="Static Badge" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> 
 
 ## GitHub status
 <div>
